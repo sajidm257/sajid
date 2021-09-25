@@ -8,7 +8,7 @@ function Testimonials() {
         <section class="tstimonials adjust" id="tstimonials">
             <div class="title">
                 <h2>Testimonials</h2>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed mollitia, delectus repudiandae saepe molestias beatae vitae officia minus voluptates fuga soluta</p>
+                <p>What professionals are saying about me...</p>
             </div>
             <div class="content">
                 <div class="testimonialsBox">

@@ -14,7 +14,7 @@ function Projects() {
         <section class="project adjust" id="project">
         <div class="title">
             <h2>Recent Work</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed mollitia, delectus repudiandae saepe molestias beatae vitae officia minus voluptates fuga soluta</p>
+            <p>Some recent Projects highlights and Experiances...</p>
         </div>
         <div class="content">
             <div class="workBx">

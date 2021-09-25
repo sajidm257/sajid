@@ -3,7 +3,7 @@ function Contact() {
         <section class="contact adjust" id="contact">
         <div class="title">
             <h2>Let's Say Hi</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed mollitia, delectus repudiandae saepe molestias beatae vitae officia minus voluptates fuga soluta</p>
+            <p>Thank you for your interest in my art. if you have any questions or would like to know more about a certain piece. fell free to contact me.</p>
         </div>
         <div class="contactForm">
             <div class="row">
